@@ -48,15 +48,20 @@
 <h2 align="left">Contact with me</h2>
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/naresh187) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohantynaresh40@gmail.com) 
+
 <div align="left">
   <a href="https://www.linkedin.com/in/naresh187/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohantynaresh40@gmail.com) 
+  <a href=
+    [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohantynaresh40@gmail.com) 
   </a>
   
 </div>
 
 ###
+
+
 
