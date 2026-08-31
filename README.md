@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a Web Devloper and AI enthusiast.</p>
+<p align="left">I am a Web Developer and AI enthusiast.</p>
 
 ###
 
